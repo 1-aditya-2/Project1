@@ -1,0 +1,17 @@
+
+.grid{
+    margin:3% 5%;
+    color: #1abc9c;
+    background-color: #f4f7f8;
+    padding:2px 12px  ;
+    border-radius: 5px;
+}
+
+.list{
+    margin:5%;
+    background-color: #f4f7f8;
+    padding:2px 12px  ;
+    border-radius: 5px;
+
+
+}
